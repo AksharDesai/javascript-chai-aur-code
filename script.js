@@ -1,4 +1,5 @@
 console.log("hello hitesh");
+<<<<<<< HEAD
 
 var a=0;
 
@@ -11,3 +12,6 @@ while(a<=20){
 
     
 }
+=======
+console.log("commiting using github code space");
+>>>>>>> 746ee4e083eb09e274ff0a3853f385a0cc550d77
